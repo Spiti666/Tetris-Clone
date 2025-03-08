@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tetris/tetris.png" alt="Tetris Logo" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tetris_logo.svg" alt="Tetris Logo" width="180"/>
 </p>
 
 [English](#english) | [Deutsch](#deutsch)
