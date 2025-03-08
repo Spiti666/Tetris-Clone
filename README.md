@@ -5,16 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 <p align="center">
-  <pre>
-  ┌─────┐ ┌─┐
-  └─┐   │ │ │
-    │   │ │ │
-  └─────┘ └─┘
-  ┌───┬───┐
-  │   │   │
-  └───┴───┘
-  </pre>
-  <i>Für ein besseres Logo platzieren Sie eine Datei namens tetris_logo.png im Repository.</i>
+  <img src="tetris_pic.webp" alt="Tetris Logo" width="250"/>
 </p>
 
 [English](#english) | [Deutsch](#deutsch)
